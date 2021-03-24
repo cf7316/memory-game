@@ -22,19 +22,19 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [n] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-* [n] Buttons use a pitch (frequency) other than the ones in the tutorial
+* [y] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+* [y] Buttons use a pitch (frequency) other than the ones in the tutorial (Ukulele pitches!)
 * [n] More than 4 functional game buttons
 * [n] Playback speeds up on each turn
-* [n] Computer picks a different pattern each time the game is played
+* [y] Computer picks a different pattern each time the game is played
 * [n] Player only loses after 3 mistakes (instead of on the first mistake)
 * [n] Game button appearance change goes beyond color (e.g. add an image)
 * [n] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
 * [n] User has a limited amount of time to enter their guess on each turn
 
 The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app!
+I used the following page to learn about how to generate random numbers in javascript:
+https://stackoverflow.com/questions/4959975/generate-random-number-between-two-numbers-in-javascript
 
 ## Video Walkthrough
 
@@ -47,14 +47,14 @@ Here's a walkthrough of implemented user stories:
 I could not load the glitch webpage, so I worked on the project from an imported github project by another user (https://github.com/potch). To the best of my knowledge, what I imported is identical to the template on glitch and the rest has been my original work.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-I found out about CodePath two days before the application deadline, so I had little time to work on the project. In particular, the glitch website would not load when I started the project. This surprised me but I was not daunted by the challenge the challenge. First, I emailed the admin of CodePath to inform them of this issue. Next, with my previous knowledge of github, I imported a project template and completed the project without glitch. Although I did not have the opportunity to see what has changed as soon as I wrote the code, I studied the guidelines rigorously and alos examined the code to the best of my abilities. 
+I found out about CodePath two days before the application deadline, so I had little time to work on the project. In particular, the glitch website would not load when I started the project. This surprised me but I was not daunted by the challenge the challenge. I first emailed the admin of CodePath to inform them of this issue. Then, with my previous knowledge of github, I imported a project template and completed the project without glitch. Although I did not have the opportunity to see what has changed as soon as I wrote the code, I studied the guidelines rigorously and alos examined the code to the best of my abilities. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 The ability of a webpage to interact with the users fascinates me. This project introduced me to the basic ideas behind what I am so used to doing-- interacting with my computer. I would like to learn more about what actions users can perform because this has an enormous range of implications in programs and games.
 Another question I have is about live and multiplayer games. I know that this would entail much more information about the internet, but the inclusion of more players would open up new dimensions for this game. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-I have been playing an instrument since I was little and the set-up of this game reminds me of the perfect pitch training/testing app that would be useful to many music students. With 12 buttons to represent each note and generating notes randomly each turn, I could turn this game into that app. The user would hear a tone and choose what note they think it is. The same idea could be extended to chords (which is an app that I would personally use because I do not have chord-identifying skills). In general, I found javascript to be flexible and powerful through this project.
+I have been playing an instrument since I was little and the set-up of this game reminds me of the perfect pitch training/testing app that would be useful to many music students. With 12 buttons to represent each note and generating notes randomly each turn, I could turn this game into that app. The user would hear a tone and choose what note they think it is. The same idea could be extended to chords (which is an app that I would personally use because I do not have chord-identifying skills). It would even be possible to make a simple instrument from this game, and the user could interact with the keyboard instead of the mouse for easier controls. In general, I found javascript to be flexible and powerful through this project.
 
 
 
