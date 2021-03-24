@@ -110,4 +110,24 @@ function guess(btn) {
   }
 
   // add game logic here
+  if(pattern[guessCounter] == btn) {
+    if(guessCounter != progress) {
+      //the turn is not over yet
+      guessCounter ++; 
+    }
+    else {
+      if(progress != pattern.length - 1) {
+        //not the last turn yet
+        progress ++;
+        playClueSequence;
+      }
+      else {
+        //victory!
+        winGame();
+      }
+  }
+  else {
+    //lost...
+    loseGame();
+  }
 }
