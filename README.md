@@ -24,13 +24,13 @@ The following **optional** features are implemented:
 
 * [y] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
 * [y] Buttons use a pitch (frequency) other than the ones in the tutorial (Ukulele pitches!)
-* [n] More than 4 functional game buttons
-* [n] Playback speeds up on each turn
+* [ ] More than 4 functional game buttons
+* [ ] Playback speeds up on each turn
 * [y] Computer picks a different pattern each time the game is played
 * [y] Player only loses after 3 mistakes (instead of on the first mistake)
-* [n] Game button appearance change goes beyond color (e.g. add an image)
-* [n] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
-* [n] User has a limited amount of time to enter their guess on each turn
+* [ ] Game button appearance change goes beyond color (e.g. add an image)
+* [ ] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
+* [ ] User has a limited amount of time to enter their guess on each turn
 
 The following **additional** features are implemented:
 When the user wins, the game plays a 4-note C chord ukulele-style.
