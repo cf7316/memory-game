@@ -1,37 +1,75 @@
-Welcome to Glitch
-=================
+# Pre-work - *Memory Game*
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+**Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+Submitted by: **Samantha Liu**
 
-Find out more [about Glitch](https://glitch.com/about).
+Time spent: **2** hours spent in total
+
+Link to project: (insert your link here, should start with https://glitch.com...)
+
+## Required Functionality
+
+The following **required** functionality is complete:
+
+* [y] Game interface has a heading (h1 tag), a line of body text (p tag), and four buttons that match the demo app
+* [y] "Start" button toggles between "Start" and "Stop" when clicked. 
+* [y] Game buttons each light up and play a sound when clicked. 
+* [y] Computer plays back sequence of clues including sound and visual cue for each button
+* [y] Play progresses to the next turn (the user gets the next step in the pattern) after a correct guess. 
+* [y] User wins the game after guessing a complete pattern
+* [y] User loses the game after an incorrect guess
+
+The following **optional** features are implemented:
+
+* [n] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+* [n] Buttons use a pitch (frequency) other than the ones in the tutorial
+* [n] More than 4 functional game buttons
+* [n] Playback speeds up on each turn
+* [n] Computer picks a different pattern each time the game is played
+* [n] Player only loses after 3 mistakes (instead of on the first mistake)
+* [n] Game button appearance change goes beyond color (e.g. add an image)
+* [n] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
+* [n] User has a limited amount of time to enter their guess on each turn
+
+The following **additional** features are implemented:
+
+- [ ] List anything else that you can get done to improve the app!
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+![](your-link-here)
 
 
-Your Project
-------------
+## Reflection Questions
+1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+I could not load the glitch webpage, so I worked on the project from an imported github project by another user (https://github.com/potch). To the best of my knowledge, what I imported is identical to the template on glitch and the rest has been my original work.
 
-### ← README.md
+2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+I found out about CodePath two days before the application deadline, so I had little time to work on the project. In particular, the glitch website would not load when I started the project. This surprised me but I was not daunted by the challenge the challenge. First, I emailed the admin of CodePath to inform them of this issue. Next, with my previous knowledge of github, I imported a project template and completed the project without glitch. Although I did not have the opportunity to see what has changed as soon as I wrote the code, I studied the guidelines rigorously and alos examined the code to the best of my abilities. 
 
-That's this file, where you can tell people what your cool website does and how you built it.
+3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+The ability of a webpage to interact with the users fascinates me. This project introduced me to the basic ideas behind what I am so used to doing-- interacting with my computer. I would like to learn more about what actions users can perform because this has an enormous range of implications in programs and games.
+Another question I have is about live and multiplayer games. I know that this would entail much more information about the internet, but the inclusion of more players would open up new dimensions for this game. 
 
-### ← index.html
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+I have been playing an instrument since I was little and the set-up of this game reminds me of the perfect pitch training/testing app that would be useful to many music students. With 12 buttons to represent each note and generating notes randomly each turn, I could turn this game into that app. The user would hear a tone and choose what note they think it is. The same idea could be extended to chords (which is an app that I would personally use because I do not have chord-identifying skills). In general, I found javascript to be flexible and powerful through this project.
 
-Where you'll write the content of your website. 
 
-### ← style.css
 
-CSS files add styling rules to your content.
+## License
 
-### ← script.js
+    Copyright [Samantha Liu]
 
-If you're feeling fancy you can add interactivity to your site with JavaScript.
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
 
-### ← assets
+        http://www.apache.org/licenses/LICENSE-2.0
 
-Drag in `assets`, like images or music, to add them to your project
-
-Made by [Glitch](https://glitch.com/)
--------------------
-
-\ ゜o゜)ノ
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
