@@ -25,6 +25,8 @@ function startGame(){
       pattern[i] = Math.floor(Math.random() * 4) + 1;
     }
     
+    console.log(pattern);
+    
     playClueSequence();
 }
 
@@ -80,6 +82,9 @@ function clearButton(btn){
 }
 
 function playSingleClue(btn){
+  //for google Chrome
+  context.resume();
+    
   if(gamePlaying){
     lightButton(btn);
     playTone(btn,clueHoldTime);
@@ -124,12 +129,13 @@ function guess(btn) {
       if(progress != pattern.length - 1) {
         //not the last turn yet
         progress ++;
-        playClueSequence;
+        playClueSequence();
       }
       else {
         //victory!
         winGame();
       }
+    }
   }
   else {
     //lost...
