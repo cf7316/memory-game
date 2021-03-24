@@ -42,9 +42,12 @@ Here's a walkthrough of implemented user stories:
 ![](https://i.imgur.com/HRH3rwB.gif)
 
 //Losing after 3 mistakes
+
 ![](https://i.imgur.com/AAZ4Twa.gif)
 
+
 //Using the stop button
+
 ![](https://i.imgur.com/6BUsaOK.gif)
 
 
