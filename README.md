@@ -4,7 +4,7 @@
 
 Submitted by: **Samantha Liu**
 
-Time spent: **2** hours spent in total
+Time spent: **3** hours spent in total
 
 Link to project: (insert your link here, should start with https://glitch.com...)
 
@@ -33,8 +33,7 @@ The following **optional** features are implemented:
 * [n] User has a limited amount of time to enter their guess on each turn
 
 The following **additional** features are implemented:
-I used the following page to learn about how to generate random numbers in javascript:
-https://stackoverflow.com/questions/4959975/generate-random-number-between-two-numbers-in-javascript
+N/A
 
 ## Video Walkthrough
 
@@ -46,6 +45,8 @@ Here's a walkthrough of implemented user stories:
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
     I could not load the glitch webpage, so I worked on the project from an imported github project by another user (https://github.com/potch). To the best of my knowledge, what I imported is identical to the template on glitch and the rest has been my original work.
+    I used the following page to learn about how to generate random numbers in javascript: https://stackoverflow.com/questions/4959975/generate-random-number-between-two-numbers-in-javascript
+    I used this link to fix the audio-playing problem that comes with google Chrome: https://developers.google.com/web/updates/2017/09/autoplay-policy-changes#webaudio
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
