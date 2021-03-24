@@ -45,6 +45,7 @@ Here's a walkthrough of implemented user stories:
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
     I could not load the glitch webpage, so I worked on the project from an imported github project by another user (https://github.com/potch). To the best of my knowledge, what I imported is identical to the template on glitch and the rest has been my original work.
+    
     I used the following page to learn about how to generate random numbers in javascript: https://stackoverflow.com/questions/4959975/generate-random-number-between-two-numbers-in-javascript
     
     I used this link to fix the audio-playing problem that comes with google Chrome: https://developers.google.com/web/updates/2017/09/autoplay-policy-changes#webaudio
