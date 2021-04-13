@@ -6,7 +6,7 @@ Submitted by: **Samantha Liu**
 
 Time spent: **4** hours spent in total
 
-Link to project: (insert your link here, should start with https://github.com/cf7316/memory-game)
+Link to project: https://github.com/cf7316/memory-game
 
 ## Required Functionality
 
